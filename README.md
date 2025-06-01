@@ -22,7 +22,7 @@ To transition from compliance-focused work to strategic analytics, I took the fo
 - Focused on automation, forecasting, and strategic analytics to enhance data-driven decision-making.  
 
 ## **📊 Project Development**  
-- **Data Cleansing:** [Data Cleansing](https://github.com/purnellmills-analytics/data-cleaning-project)
+- **Data Cleansing:** [Data Cleansing Project](https://github.com/purnellmills-analytics/data-cleaning-project)
 
 ## **📬 Contact Me**  
 - **LinkedIn:** [Purnell Mills' LinkedIn](https://www.linkedin.com/in/purnell-mills-analytics)  
