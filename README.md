@@ -11,8 +11,8 @@ To transition from compliance-focused work to strategic analytics, I took the fo
 ## **⚙️ Technical Growth & Achievements**  
 - **SQL & Python:** Optimized database structures, enhanced query performance, and implemented automation for efficiency.  
 - **Tableau & Power Query:** Designed interactive dashboards, embedded credential security, and automated data transformations to streamline reporting.  
-- **WGU Data Analytics Fundamentals Badge:** [View my Badge](https://api.badgr.io/public/assertions/Cygxa4ZjTKC87qv3PDcy9g?identity__email=pmil269%40wgu.edu)
-- **WGU Data Preparation Badge:** [View my Badge](https://api.badgr.io/public/assertions/9ubInScxRdi4N__yJoNujA?identity__email=pmil269%40wgu.edu) 
+- **WGU Data Preparation Badge:** [View my Badge](https://api.badgr.io/public/assertions/Cygxa4ZjTKC87qv3PDcy9g?identity__email=pmil269%40wgu.edu)
+- **WGU Data Analytics Fundamentals:** [View my Badge](https://api.badgr.io/public/assertions/9ubInScxRdi4N__yJoNujA?identity__email=pmil269%40wgu.edu) 
 
 ## **🚀 Challenges & Breakthroughs**  
 - **SQL Optimization:** Improved accuracy and scalability by structuring data models with referential integrity and optimizing relationships.  
